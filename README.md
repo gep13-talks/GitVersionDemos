@@ -7,13 +7,12 @@ Demo Repository for showing usage of the [GitVersion](https://github.com/GitTool
 3. Initialize new Git Repository
 3. Run GitVersion
 4. Results in no Git Repo being found
-5. Add new file to repo
-6. Add and commit into repo
+5. Add new file to repo, and commit
 7. Run GitVersion
-8. Make some changes to the file, and add and commit into repo
+8. Make some changes to the file, add and commit into repo
 9. Run GitVersion
 10. Discuss what has changed, i.e. the build meta data, which matches the SHA of the commit, and the semantic version, now at +1
-11. Make some more changes to the file, and add and commit into repo
+11. Make some more changes to the file, add and commit into repo
 12. Run GitVersion
 13. Discuss the changes again, just to stress the point
 
