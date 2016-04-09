@@ -1,6 +1,10 @@
 # GitVersion Demo's
 Demo Repository for showing usage of the [GitVersion](https://github.com/GitTools/GitVersion) tool.
 
+This talk was first given at ScotSoft2015, on Thursday 17th September 2015. The slides for this talk can be found [here](http://www.slideshare.net/gep13/semantic-versioning-with-gitversion).
+
+It was also given at [Aberdeen Developers .Net User Group](http://www.aberdeendevelopers.co.uk/), on Thursday 22nd October 2015.  Complete session information can be found [here](http://www.aberdeendevelopers.co.uk/october-2015-meeting-gary-ewan-park/).  The slides for this talk can be found [here](http://www.slideshare.net/gep13/semantic-versioning-with-gitversion-take-2)
+
 ## Initial Steps
 1. Open Command Prompt
 2. Navigate to project folder
